@@ -5,7 +5,7 @@ This app allows users to quickly check the current weather conditions (temperatu
 
 ## 🌍 Live Demo
 
-👉 [Weather Now - Live App](weather-app-alpha-sandy-95.vercel.app)
+👉 [Weather Now - Live App](https://weather-app-alpha-sandy-95.vercel.app/)
 
 ---
 
